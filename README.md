@@ -8,6 +8,7 @@ Contributors
 Simon Goring
 Julia Barthold
 Jess Tauber
+John Wendt
 
 
 Introduction
